@@ -4,6 +4,8 @@ creative technical solutions through applied hackery
 - aws microservices and apis
 - novel challenges
 
+@ me: [ironprogrammer](https://twitter.com/messages/compose?recipient_id=12339682)
+
 ```
 nerd life forever
 ```
