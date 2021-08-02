@@ -1,7 +1,9 @@
 creative technical solutions through applied hackery
 
-- custom web dev
-- microservices
+- custom wordpress web/plugin dev
+- aws microservices and apis
 - novel challenges
 
-`nerd life forever`
+```
+nerd life forever
+```
