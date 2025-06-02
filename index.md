@@ -1,12 +1,13 @@
-creative technical solutions through applied hackery
+a proud nerd since learning BASIC on an IBM PCjr in the mid-80s
 
-- custom wordpress web/plugin dev
+- team lead
+- wordpress core and test teams > [wporg profile](https://profiles.wordpress.org/ironprogrammer/)
+- custom plugin/theme dev
 - aws microservices and apis
-- startup infra
-- novel challenges
+- smb/startup ops and infra
 
-@ me: [ironprogrammer](https://twitter.com/messages/compose?recipient_id=12339682)
+[irl](https://brianalexander.com/about/) | 
+[linkedin](https://www.linkedin.com/in/brianalexander/) | 
+[gravatar](https://gravatar.com/ironprogrammer)
 
-```
-nerd life forever
-```
+### nerd life forever
