@@ -6,6 +6,7 @@ a proud nerd since learning BASIC on an IBM PCjr in the mid-80s
 - aws microservices and apis
 - smb/startup ops and infra
 
+[github](https://github.com/ironprogrammer) | 
 [irl](https://brianalexander.com/about/) | 
 [linkedin](https://www.linkedin.com/in/brianalexander/) | 
 [gravatar](https://gravatar.com/ironprogrammer)
